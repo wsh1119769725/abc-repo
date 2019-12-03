@@ -29,7 +29,7 @@ zuul:
 #  ReadTimeout: 1000
 #  MaxAutoRetriesNextServer: 1
 #  MaxAutoRetries: 1
-#
+
 #hystrix:
 #  command:
 #    defaul:
