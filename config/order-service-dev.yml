@@ -42,4 +42,3 @@ spring:
 
 server:
   port: 8202  
- 
